@@ -3,6 +3,7 @@ import About from "@/components/About";
 import Contact from "@/components/Contact";
 import Hero from "@/components/Hero";
 import Navbar from "@/components/Navbar";
+import Pricing from "@/components/Pricing";
 import Service from "@/components/Service";
 import TechStack from "@/components/TechStack";
 import { Variants } from "framer-motion";
@@ -43,6 +44,7 @@ export default function Home() {
         <About />
         <Service />
         <TechStack />
+        <Pricing />
         <Contact />
       </div>
     </div>

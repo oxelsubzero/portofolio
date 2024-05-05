@@ -3,10 +3,11 @@ import { motion } from "framer-motion";
 const Contact = () => {
   return (
     <div className="mt-12">
-      <p className="text-3xl font-bold">Telle me about your project</p>
+      <p className="text-3xl font-bold">Ready to Get Started?</p>
       <p className="text-neutral-400 mt-8">
-        Send me a message about your project
-        <br /> I&apos;ll get back you within 4 hours
+        Let&apos;s discuss your project and how
+        <br /> I can help you achieve your goals within your budget.
+        <br /> Send me a message and I&apos;ll be back within 24 hours
       </p>
 
       <form className="mt-16 w-full border border-neutral-500 rounded-xl md:p-16 p-6 space-y-8">

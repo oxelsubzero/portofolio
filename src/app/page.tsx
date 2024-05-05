@@ -37,7 +37,7 @@ const introPictureVariants: Variants = {
 
 export default function Home() {
   return (
-    <div className=" w-screen bg-[#121212] pb-96 text-white ">
+    <div className=" w-screen bg-[#121212] pb-8 text-white ">
       <Navbar />
       <div className="md:px-[20%] px-7">
         <Hero />
